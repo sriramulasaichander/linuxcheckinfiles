@@ -1,0 +1,2 @@
+this is text file with name as text for second time checked in
+git using linux commands
